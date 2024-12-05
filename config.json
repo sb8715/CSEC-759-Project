@@ -1,5 +1,5 @@
 {
-    "num_packets": 5,
-    "focus_depth": 3,
-    "fuzzer_url": "http://127.0.0.1:6000/api/test"
+    "num_packets": 10,
+    "focus_depth": 5,
+    "port": 5000
 }
